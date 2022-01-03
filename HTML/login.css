@@ -1,0 +1,22 @@
+body{
+    background-image: url("vtvns.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font: optional;
+    border: rgb(245, 7, 7);
+    float: center;
+    padding-left: 42%;
+    padding-top: 80px;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 40px;
+    padding: 60px;
+}
